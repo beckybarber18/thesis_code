@@ -1,6 +1,6 @@
 # thesis_code
 
-All of this code is written in Python, and most of the files are Jupyter Notebooks. To launch the environment: (1) Download the code. (2) Using terminal, ``cd`` into the GitHub directory, and then type "jupyter notebook." The notebook interface will appear in a new browser window or tab.
+All of this code is written in Python, and most of the files are Jupyter Notebooks. To launch the environment: (1) Download the code. (2) Using terminal, ``cd`` into the GitHub directory, and then type "``jupyter notebook.``" The notebook interface will appear in a new browser window or tab.
 
 There are three folders in this GitHub repository: (1) ``auction_simulations``, (2) ``analyze_roasolver_output``, and (3) ``flow_simulations``. I will briefly describe the contents of each.
 
