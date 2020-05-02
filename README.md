@@ -16,8 +16,8 @@ There is only one notebook in this folder: analyze_opt_solver_results.ipynb. Thi
 
 There are many notebooks in this folder, most of which analyze the output of different flows we derived. Some of the more important files are listed below with descriptions:
 
-diagonal_flow.ipynb: Simulates the adjusted revenue that corresponds to the (discrete) pure diagonal flow.
-orig_and_diagonal_flow.ipynb: Compares the results of the pure diagonal flow (in the discrete case) and the flow that was used to derive the original O(\sqrt{n}) upper bound (from the initial canonical flow).
+* diagonal_flow.ipynb: Simulates the adjusted revenue that corresponds to the (discrete) pure diagonal flow.
+* orig_and_diagonal_flow.ipynb: Compares the results of the pure diagonal flow (in the discrete case) and the flow that was used to derive the original O(\sqrt{n}) upper bound (from the initial canonical flow).
 diag_to_zero_continuous_E[vv2].ipynb: Simulates the adjusted revenue that corresponds to the (continuous) flow that terminates at (0,0).
 pure_diag_continuous_E[vv2].ipynb: Simulates the adjusted revenue that corresponds to the (continuous) pure diagonal flow.
 flow_scratch.ipynb: This program easily allows you to adjust the virtual value functions (for both the favorite and non-favorite items) to determine which virtual value functions result in a logarithmic upper bound on adjusted revene.
