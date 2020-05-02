@@ -6,7 +6,7 @@ There are three folders in this GitHub repository: (1) ``auction_simulations``, 
 
 ## ``auction_simulations``
 
-The most important file in this folder is: ``evaluate_2nd_price_grandbundle_integral.ipynb``. This program evaluates the integral that used to compute the expected revenue of the second-price auction on the grand bundle (of two items). The code graphs the result and finds the closest fit logarithmic and square root functions.
+The most important file in this folder is: ``evaluate_2nd_price_grandbundle_integral.ipynb``. This program evaluates the integral that was used to compute the expected revenue of the second-price auction on the grand bundle (of two items). The code graphs the result and finds the closest fit logarithmic and square root functions.
 
 ## ``analyze_roasolver_output``
 
